@@ -1,4 +1,6 @@
-<img src="https://github.com/mach3-software/MaCh3/blob/develop/Doc/mach3logo.png" alt="MaCh3" align="center" width="100"/>
+<p align="center">
+  <img src="https://github.com/mach3-software/MaCh3/blob/develop/Doc/mach3logo.png" alt="MaCh3" width="400"/>
+</p>
 
 # The MaCh3 Framework
 
@@ -10,7 +12,7 @@ Official webpage: [https://mach3-software.github.io/MaCh3/](https://mach3-softwa
 
 The MaCh3 ecosystem consists of several repositories:
 
-* [`MaCh3`](https://github.com/mach3-software/MaCh3) - The Core of the MaCh3 framework, responsible for the fitting algorithms, parameter handling, and reweighting routines.
+* [`MaCh3`](https://github.com/mach3-software/MaCh3) - **The Core** of the MaCh3 framework, responsible for the fitting algorithms, parameter handling, and reweighting routines.
 
 * [`MaCh3Tutorial`](https://github.com/mach3-software/MaCh3Tutorial) - An introduction to using MaCh3 through a toy pseudo-experiment, with all required inputs provided and ready to use.
 
