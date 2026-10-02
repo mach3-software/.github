@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mach3-software/MaCh3/blob/develop/Doc/mach3logo.png" alt="MaCh3" width="400"/>
+  <img src="https://github.com/mach3-software/MaCh3/blob/develop/Doc/mach3logo.png" alt="MaCh3" width="300"/>
 </p>
 
 # The MaCh3 Framework
